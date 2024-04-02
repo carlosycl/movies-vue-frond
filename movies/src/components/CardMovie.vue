@@ -86,7 +86,3 @@
       </v-card-actions>
     </v-card>
   </template>
-  <script setup>
-    import { Ref } from 'vue';
-    const loading = ref(false)
-</script>

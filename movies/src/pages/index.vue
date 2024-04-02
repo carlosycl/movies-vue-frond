@@ -1,8 +1,7 @@
 <template>
-  <h1>Hello word</h1>
-  <CardMovie/>
+
+<CardMovie/>
+  
 </template>
 
-<script setup>
-  //
-</script>
+
