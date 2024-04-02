@@ -1,3 +1,4 @@
+import { Ref } from 'vue';
 <template>
     <v-card
       :loading="loading"
@@ -86,3 +87,6 @@
       </v-card-actions>
     </v-card>
   </template>
+
+
+
